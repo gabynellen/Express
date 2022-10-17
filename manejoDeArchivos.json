@@ -1,0 +1,20 @@
+[
+    {
+    "id":1,
+    "title":"Pantalon",
+    "price":"$9500",
+    "thumbnail":"foto de Pantalon"
+    },
+    {
+    "id":2,
+    "title":"Remera",
+    "price":"$4000",
+    "thumbnail":"foto de Remera"
+    },
+    {
+    "id":3,
+    "title":"Buzo",
+    "price":"$15000",
+    "thumbnail":"foto de Buzo"
+    }
+]
